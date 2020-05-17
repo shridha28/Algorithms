@@ -62,5 +62,11 @@ public class LCSDynamicProgramming {
 		}
 		
 		System.out.println(s);
+		
+	
 	}
+	
+	
+	
+	
 }
